@@ -20,5 +20,5 @@ Like the FIFO, the filter is 7-elements wide, and each element is 8 bits. I will
 
 ## Block Diagram Links
 * FIR Block Diagram: https://docs.google.com/drawings/d/18etfafupazUfJcN8g4o10CzM9l3_K5mCgpO8Z9e3l1o/edit
-* Detailed Weight and Input Stream Block Diagram: https://docs.google.com/drawings/d/15v8AtdmGHCrTuUK6cQvjDqJ7pQW6O0H4i25wO9bx9Gg/edit
+* Detailed Filter and Input Stream Block Diagram: https://docs.google.com/drawings/d/15v8AtdmGHCrTuUK6cQvjDqJ7pQW6O0H4i25wO9bx9Gg/edit
 * Detailed Output Block Diagram: https://docs.google.com/drawings/d/1qreCHda5csYKL2db6tJi-taY_Ww-JLlhz1i-mWeQCD8/edit
